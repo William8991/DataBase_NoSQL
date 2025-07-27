@@ -1,0 +1,1001 @@
+id,data,nome
+1,2025-11-13,human trafficking
+2,2025-05-28,homicide
+3,2025-04-07,arson
+4,2025-02-10,drug possession
+5,2025-01-28,carjacking
+6,2025-01-22,cybercrime
+7,2025-04-29,burglary
+8,2025-11-08,burglary
+9,2025-06-10,domestic violence
+10,2025-06-01,embezzlement
+11,2025-03-23,terrorism
+12,2025-01-16,assault
+13,2025-10-06,money laundering
+14,2025-06-03,arson
+15,2025-10-04,fraud
+16,2025-02-02,assault
+17,2025-11-29,stalking
+18,2025-09-23,assault
+19,2025-10-28,kidnapping
+20,2025-07-15,carjacking
+21,2025-09-16,kidnapping
+22,2025-11-11,trespassing
+23,2025-07-10,money laundering
+24,2025-03-08,robbery
+25,2025-11-04,drug possession
+26,2025-10-27,drug possession
+27,2025-01-11,embezzlement
+28,2025-04-29,burglary
+29,2025-12-30,trespassing
+30,2025-07-28,robbery
+31,2025-06-06,burglary
+32,2025-02-26,trespassing
+33,2025-05-18,human trafficking
+34,2025-04-23,terrorism
+35,2025-07-31,domestic violence
+36,2025-08-18,arson
+37,2025-04-12,shoplifting
+38,2025-12-01,shoplifting
+39,2025-07-24,vandalism
+40,2025-12-23,homicide
+41,2025-01-22,stalking
+42,2025-11-20,drug possession
+43,2025-04-06,drug possession
+44,2025-08-02,stalking
+45,2025-09-28,fraud
+46,2025-11-17,assault
+47,2025-03-20,homicide
+48,2025-04-07,domestic violence
+49,2025-04-19,burglary
+50,2025-02-19,vandalism
+51,2025-12-15,trespassing
+52,2025-09-03,terrorism
+53,2025-05-01,homicide
+54,2025-11-11,money laundering
+55,2025-09-03,terrorism
+56,2025-05-07,burglary
+57,2025-04-05,fraud
+58,2025-06-05,identity theft
+59,2025-02-25,vandalism
+60,2025-04-04,trespassing
+61,2025-10-19,arson
+62,2025-05-09,trespassing
+63,2025-07-04,terrorism
+64,2025-05-09,arson
+65,2025-01-09,assault
+66,2025-05-25,human trafficking
+67,2025-02-23,vandalism
+68,2025-04-02,arson
+69,2025-10-23,cybercrime
+70,2025-06-26,money laundering
+71,2025-06-03,stalking
+72,2025-11-06,cybercrime
+73,2025-11-10,assault
+74,2025-09-21,robbery
+75,2025-07-30,identity theft
+76,2025-10-31,burglary
+77,2025-08-15,carjacking
+78,2025-12-11,kidnapping
+79,2025-09-30,shoplifting
+80,2025-02-25,assault
+81,2025-04-12,arson
+82,2025-12-26,carjacking
+83,2025-09-17,shoplifting
+84,2025-04-19,fraud
+85,2025-05-20,homicide
+86,2025-02-27,terrorism
+87,2025-01-20,robbery
+88,2025-11-15,stalking
+89,2025-12-06,homicide
+90,2025-06-16,embezzlement
+91,2025-09-22,robbery
+92,2025-01-11,shoplifting
+93,2025-10-03,fraud
+94,2025-10-13,fraud
+95,2025-11-21,carjacking
+96,2025-11-18,fraud
+97,2025-07-03,carjacking
+98,2025-12-22,money laundering
+99,2025-08-04,carjacking
+100,2025-01-20,stalking
+101,2025-08-09,carjacking
+102,2025-12-13,cybercrime
+103,2025-01-14,human trafficking
+104,2025-09-28,burglary
+105,2025-11-21,arson
+106,2025-09-28,burglary
+107,2025-06-07,cybercrime
+108,2025-05-07,stalking
+109,2025-06-29,cybercrime
+110,2025-06-04,human trafficking
+111,2025-12-30,kidnapping
+112,2025-01-21,shoplifting
+113,2025-03-06,vandalism
+114,2025-05-11,carjacking
+115,2025-05-12,robbery
+116,2025-07-29,terrorism
+117,2025-10-31,terrorism
+118,2025-06-11,human trafficking
+119,2025-12-30,cybercrime
+120,2025-12-08,human trafficking
+121,2025-05-11,money laundering
+122,2025-10-28,homicide
+123,2025-09-23,human trafficking
+124,2025-10-02,money laundering
+125,2025-10-11,domestic violence
+126,2025-05-07,kidnapping
+127,2025-07-05,drug possession
+128,2025-07-26,domestic violence
+129,2025-09-17,identity theft
+130,2025-02-18,identity theft
+131,2025-01-19,human trafficking
+132,2025-01-07,terrorism
+133,2025-06-23,robbery
+134,2025-10-10,kidnapping
+135,2025-07-28,arson
+136,2025-04-29,robbery
+137,2025-05-17,domestic violence
+138,2025-03-14,stalking
+139,2025-08-22,robbery
+140,2025-03-30,fraud
+141,2025-11-24,identity theft
+142,2025-06-25,trespassing
+143,2025-05-30,kidnapping
+144,2025-01-12,cybercrime
+145,2025-04-15,domestic violence
+146,2025-05-07,kidnapping
+147,2025-07-05,stalking
+148,2025-01-08,homicide
+149,2025-02-07,embezzlement
+150,2025-11-01,arson
+151,2025-10-05,stalking
+152,2025-12-12,stalking
+153,2025-06-09,fraud
+154,2025-01-31,burglary
+155,2025-11-11,identity theft
+156,2025-04-21,human trafficking
+157,2025-03-16,human trafficking
+158,2025-04-04,human trafficking
+159,2025-10-17,burglary
+160,2025-08-16,stalking
+161,2025-03-13,terrorism
+162,2025-04-05,trespassing
+163,2025-06-17,assault
+164,2025-07-07,drug possession
+165,2025-10-18,trespassing
+166,2025-01-21,money laundering
+167,2025-06-17,carjacking
+168,2025-10-22,burglary
+169,2025-04-18,domestic violence
+170,2025-02-06,identity theft
+171,2025-04-25,arson
+172,2025-10-19,vandalism
+173,2025-05-10,embezzlement
+174,2025-07-20,human trafficking
+175,2025-01-04,domestic violence
+176,2025-08-13,stalking
+177,2025-06-09,vandalism
+178,2025-11-15,fraud
+179,2025-05-03,burglary
+180,2025-03-05,embezzlement
+181,2025-06-12,carjacking
+182,2025-08-20,embezzlement
+183,2025-10-23,drug possession
+184,2025-05-25,domestic violence
+185,2025-08-03,vandalism
+186,2025-05-25,robbery
+187,2025-02-24,cybercrime
+188,2025-12-28,shoplifting
+189,2025-11-09,cybercrime
+190,2025-11-04,fraud
+191,2025-12-16,trespassing
+192,2025-08-18,cybercrime
+193,2025-04-26,trespassing
+194,2025-10-27,terrorism
+195,2025-11-05,carjacking
+196,2025-07-09,cybercrime
+197,2025-04-21,shoplifting
+198,2025-06-21,domestic violence
+199,2025-04-19,fraud
+200,2025-05-01,fraud
+201,2025-09-05,trespassing
+202,2025-09-13,robbery
+203,2025-05-30,domestic violence
+204,2025-01-06,human trafficking
+205,2025-03-01,human trafficking
+206,2025-10-10,burglary
+207,2025-06-21,trespassing
+208,2025-04-02,trespassing
+209,2025-06-19,money laundering
+210,2025-03-18,arson
+211,2025-07-09,human trafficking
+212,2025-01-26,vandalism
+213,2025-01-19,human trafficking
+214,2025-06-07,shoplifting
+215,2025-02-15,domestic violence
+216,2025-07-14,identity theft
+217,2025-08-23,arson
+218,2025-02-26,cybercrime
+219,2025-05-07,human trafficking
+220,2025-01-31,carjacking
+221,2025-07-08,carjacking
+222,2025-07-27,vandalism
+223,2025-01-13,embezzlement
+224,2025-11-11,drug possession
+225,2025-06-26,domestic violence
+226,2025-02-19,human trafficking
+227,2025-04-10,drug possession
+228,2025-05-01,stalking
+229,2025-08-10,trespassing
+230,2025-02-14,money laundering
+231,2025-08-05,domestic violence
+232,2025-07-03,terrorism
+233,2025-06-24,domestic violence
+234,2025-08-10,stalking
+235,2025-12-19,kidnapping
+236,2025-04-17,burglary
+237,2025-02-18,shoplifting
+238,2025-10-21,cybercrime
+239,2025-10-03,homicide
+240,2025-04-24,vandalism
+241,2025-03-21,burglary
+242,2025-04-11,arson
+243,2025-11-09,fraud
+244,2025-02-19,arson
+245,2025-06-04,identity theft
+246,2025-12-24,burglary
+247,2025-08-25,drug possession
+248,2025-01-06,embezzlement
+249,2025-06-15,drug possession
+250,2025-06-20,kidnapping
+251,2025-03-13,shoplifting
+252,2025-04-02,arson
+253,2025-05-07,burglary
+254,2025-04-11,human trafficking
+255,2025-08-13,carjacking
+256,2025-04-06,homicide
+257,2025-03-12,stalking
+258,2025-12-15,trespassing
+259,2025-06-08,identity theft
+260,2025-06-22,trespassing
+261,2025-06-12,fraud
+262,2025-02-03,shoplifting
+263,2025-02-24,assault
+264,2025-11-16,terrorism
+265,2025-05-18,arson
+266,2025-10-05,cybercrime
+267,2025-08-16,vandalism
+268,2025-05-17,carjacking
+269,2025-02-05,burglary
+270,2025-09-09,shoplifting
+271,2025-04-05,homicide
+272,2025-03-08,cybercrime
+273,2025-07-07,robbery
+274,2025-06-23,human trafficking
+275,2025-01-16,terrorism
+276,2025-11-08,embezzlement
+277,2025-06-24,money laundering
+278,2025-10-15,homicide
+279,2025-05-27,cybercrime
+280,2025-01-02,vandalism
+281,2025-11-23,embezzlement
+282,2025-04-04,terrorism
+283,2025-12-23,robbery
+284,2025-01-29,identity theft
+285,2025-06-20,burglary
+286,2025-01-08,stalking
+287,2025-05-17,money laundering
+288,2025-10-17,burglary
+289,2025-11-06,stalking
+290,2025-01-27,trespassing
+291,2025-12-13,homicide
+292,2025-05-10,human trafficking
+293,2025-07-20,terrorism
+294,2025-07-03,arson
+295,2025-01-10,homicide
+296,2025-12-13,robbery
+297,2025-01-24,shoplifting
+298,2025-07-28,vandalism
+299,2025-11-28,identity theft
+300,2025-04-20,domestic violence
+301,2025-01-07,cybercrime
+302,2025-03-09,drug possession
+303,2025-04-09,burglary
+304,2025-08-20,kidnapping
+305,2025-01-29,burglary
+306,2025-02-03,robbery
+307,2025-03-31,embezzlement
+308,2025-10-18,stalking
+309,2025-01-30,homicide
+310,2025-12-01,shoplifting
+311,2025-12-04,money laundering
+312,2025-11-18,drug possession
+313,2025-02-07,identity theft
+314,2025-04-01,arson
+315,2025-01-20,identity theft
+316,2025-01-20,vandalism
+317,2025-08-08,vandalism
+318,2025-12-06,arson
+319,2025-01-20,burglary
+320,2025-05-31,terrorism
+321,2025-06-19,trespassing
+322,2025-02-26,assault
+323,2025-09-28,assault
+324,2025-08-27,money laundering
+325,2025-09-24,cybercrime
+326,2025-05-09,shoplifting
+327,2025-02-07,robbery
+328,2025-01-04,drug possession
+329,2025-06-27,burglary
+330,2025-11-19,domestic violence
+331,2025-02-20,shoplifting
+332,2025-10-18,embezzlement
+333,2025-11-02,carjacking
+334,2025-11-28,arson
+335,2025-07-12,identity theft
+336,2025-11-23,terrorism
+337,2025-04-08,human trafficking
+338,2025-07-31,embezzlement
+339,2025-05-20,burglary
+340,2025-06-13,human trafficking
+341,2025-07-26,shoplifting
+342,2025-06-16,cybercrime
+343,2025-12-05,drug possession
+344,2025-05-16,cybercrime
+345,2025-11-09,vandalism
+346,2025-06-28,vandalism
+347,2025-04-22,carjacking
+348,2025-12-03,human trafficking
+349,2025-04-03,homicide
+350,2025-10-09,shoplifting
+351,2025-02-17,carjacking
+352,2025-02-23,homicide
+353,2025-01-27,identity theft
+354,2025-10-01,vandalism
+355,2025-09-01,trespassing
+356,2025-12-02,assault
+357,2025-03-23,trespassing
+358,2025-05-10,identity theft
+359,2025-01-06,trespassing
+360,2025-07-08,assault
+361,2025-05-03,carjacking
+362,2025-07-24,money laundering
+363,2025-03-24,domestic violence
+364,2025-09-17,assault
+365,2025-11-20,domestic violence
+366,2025-07-23,arson
+367,2025-05-11,trespassing
+368,2025-08-29,carjacking
+369,2025-05-12,vandalism
+370,2025-06-06,domestic violence
+371,2025-03-16,human trafficking
+372,2025-08-30,terrorism
+373,2025-09-09,kidnapping
+374,2025-08-19,trespassing
+375,2025-03-12,homicide
+376,2025-12-28,stalking
+377,2025-01-12,fraud
+378,2025-09-23,fraud
+379,2025-09-05,arson
+380,2025-07-13,human trafficking
+381,2025-06-19,homicide
+382,2025-09-23,kidnapping
+383,2025-04-28,terrorism
+384,2025-09-02,identity theft
+385,2025-12-22,arson
+386,2025-01-24,vandalism
+387,2025-07-30,robbery
+388,2025-10-03,kidnapping
+389,2025-09-14,trespassing
+390,2025-11-15,robbery
+391,2025-12-18,homicide
+392,2025-09-22,identity theft
+393,2025-04-06,assault
+394,2025-08-29,identity theft
+395,2025-10-03,stalking
+396,2025-05-07,cybercrime
+397,2025-02-23,money laundering
+398,2025-06-06,money laundering
+399,2025-12-19,arson
+400,2025-03-13,arson
+401,2025-11-17,domestic violence
+402,2025-11-30,domestic violence
+403,2025-07-04,drug possession
+404,2025-11-23,robbery
+405,2025-03-17,identity theft
+406,2025-09-20,robbery
+407,2025-09-09,shoplifting
+408,2025-10-20,fraud
+409,2025-06-27,robbery
+410,2025-01-31,shoplifting
+411,2025-03-11,robbery
+412,2025-09-11,robbery
+413,2025-03-04,carjacking
+414,2025-01-12,drug possession
+415,2025-12-26,embezzlement
+416,2025-12-13,kidnapping
+417,2025-04-03,assault
+418,2025-04-03,identity theft
+419,2025-01-16,vandalism
+420,2025-05-19,terrorism
+421,2025-06-26,terrorism
+422,2025-06-03,drug possession
+423,2025-05-30,assault
+424,2025-09-30,vandalism
+425,2025-05-08,cybercrime
+426,2025-08-13,trespassing
+427,2025-09-03,vandalism
+428,2025-03-11,human trafficking
+429,2025-08-10,identity theft
+430,2025-06-19,terrorism
+431,2025-09-07,trespassing
+432,2025-11-08,arson
+433,2025-05-05,human trafficking
+434,2025-10-20,terrorism
+435,2025-06-20,carjacking
+436,2025-10-11,domestic violence
+437,2025-07-25,identity theft
+438,2025-03-25,arson
+439,2025-02-21,human trafficking
+440,2025-04-15,fraud
+441,2025-04-18,identity theft
+442,2025-04-05,arson
+443,2025-06-05,embezzlement
+444,2025-12-05,arson
+445,2025-08-02,trespassing
+446,2025-10-21,robbery
+447,2025-01-05,money laundering
+448,2025-02-08,kidnapping
+449,2025-07-30,cybercrime
+450,2025-04-07,vandalism
+451,2025-09-04,domestic violence
+452,2025-09-02,fraud
+453,2025-11-28,drug possession
+454,2025-03-04,fraud
+455,2025-08-16,drug possession
+456,2025-12-09,burglary
+457,2025-08-22,shoplifting
+458,2025-05-27,identity theft
+459,2025-09-07,embezzlement
+460,2025-10-03,embezzlement
+461,2025-06-17,assault
+462,2025-12-13,terrorism
+463,2025-04-17,drug possession
+464,2025-12-08,arson
+465,2025-11-15,carjacking
+466,2025-04-01,identity theft
+467,2025-12-05,shoplifting
+468,2025-02-15,drug possession
+469,2025-05-02,burglary
+470,2025-03-21,embezzlement
+471,2025-06-30,fraud
+472,2025-09-28,kidnapping
+473,2025-12-16,terrorism
+474,2025-01-03,kidnapping
+475,2025-02-07,shoplifting
+476,2025-04-24,arson
+477,2025-01-22,vandalism
+478,2025-10-30,identity theft
+479,2025-05-04,stalking
+480,2025-09-17,carjacking
+481,2025-06-03,kidnapping
+482,2025-06-25,kidnapping
+483,2025-03-04,assault
+484,2025-10-31,robbery
+485,2025-07-06,burglary
+486,2025-06-01,kidnapping
+487,2025-02-05,homicide
+488,2025-06-12,trespassing
+489,2025-12-02,robbery
+490,2025-11-27,embezzlement
+491,2025-03-15,homicide
+492,2025-08-17,robbery
+493,2025-04-25,human trafficking
+494,2025-08-06,carjacking
+495,2025-04-02,terrorism
+496,2025-04-21,terrorism
+497,2025-06-23,vandalism
+498,2025-03-27,robbery
+499,2025-10-14,embezzlement
+500,2025-07-08,burglary
+501,2025-09-19,human trafficking
+502,2025-08-31,trespassing
+503,2025-11-08,terrorism
+504,2025-01-27,cybercrime
+505,2025-04-04,vandalism
+506,2025-12-12,domestic violence
+507,2025-10-01,trespassing
+508,2025-11-16,arson
+509,2025-03-25,burglary
+510,2025-02-24,arson
+511,2025-09-23,homicide
+512,2025-10-30,burglary
+513,2025-09-30,trespassing
+514,2025-01-15,homicide
+515,2025-01-02,vandalism
+516,2025-10-30,fraud
+517,2025-12-05,drug possession
+518,2025-03-03,kidnapping
+519,2025-06-18,kidnapping
+520,2025-04-05,trespassing
+521,2025-05-04,carjacking
+522,2025-11-28,human trafficking
+523,2025-03-12,fraud
+524,2025-09-12,trespassing
+525,2025-10-17,trespassing
+526,2025-09-19,arson
+527,2025-06-25,money laundering
+528,2025-01-09,carjacking
+529,2025-07-26,carjacking
+530,2025-10-12,kidnapping
+531,2025-04-27,vandalism
+532,2025-04-15,shoplifting
+533,2025-04-20,kidnapping
+534,2025-12-18,embezzlement
+535,2025-08-17,money laundering
+536,2025-12-26,robbery
+537,2025-12-07,cybercrime
+538,2025-11-21,identity theft
+539,2025-11-25,embezzlement
+540,2025-08-04,drug possession
+541,2025-09-13,assault
+542,2025-12-23,homicide
+543,2025-06-15,cybercrime
+544,2025-09-25,homicide
+545,2025-08-25,identity theft
+546,2025-09-09,domestic violence
+547,2025-04-24,homicide
+548,2025-10-07,domestic violence
+549,2025-05-11,identity theft
+550,2025-05-05,terrorism
+551,2025-01-13,trespassing
+552,2025-05-29,arson
+553,2025-01-23,carjacking
+554,2025-09-22,money laundering
+555,2025-07-24,trespassing
+556,2025-04-20,identity theft
+557,2025-06-22,arson
+558,2025-09-14,drug possession
+559,2025-04-15,carjacking
+560,2025-09-15,identity theft
+561,2025-05-05,assault
+562,2025-04-24,stalking
+563,2025-03-23,vandalism
+564,2025-07-17,human trafficking
+565,2025-01-24,stalking
+566,2025-10-03,vandalism
+567,2025-04-16,cybercrime
+568,2025-03-10,arson
+569,2025-08-21,domestic violence
+570,2025-10-03,shoplifting
+571,2025-03-16,vandalism
+572,2025-02-19,kidnapping
+573,2025-12-27,carjacking
+574,2025-07-31,money laundering
+575,2025-07-02,drug possession
+576,2025-09-23,burglary
+577,2025-07-10,fraud
+578,2025-03-09,fraud
+579,2025-04-28,terrorism
+580,2025-04-23,money laundering
+581,2025-10-12,cybercrime
+582,2025-01-12,domestic violence
+583,2025-07-08,burglary
+584,2025-04-12,kidnapping
+585,2025-09-02,vandalism
+586,2025-11-28,embezzlement
+587,2025-09-27,vandalism
+588,2025-02-12,domestic violence
+589,2025-09-11,fraud
+590,2025-07-25,robbery
+591,2025-10-21,assault
+592,2025-01-11,embezzlement
+593,2025-07-18,fraud
+594,2025-12-02,fraud
+595,2025-06-29,terrorism
+596,2025-10-11,human trafficking
+597,2025-05-23,trespassing
+598,2025-08-18,embezzlement
+599,2025-11-12,money laundering
+600,2025-10-31,trespassing
+601,2025-04-09,terrorism
+602,2025-09-15,human trafficking
+603,2025-05-30,vandalism
+604,2025-09-22,kidnapping
+605,2025-05-16,homicide
+606,2025-05-09,arson
+607,2025-11-03,embezzlement
+608,2025-07-02,stalking
+609,2025-12-24,fraud
+610,2025-07-23,assault
+611,2025-03-24,kidnapping
+612,2025-03-03,shoplifting
+613,2025-05-06,homicide
+614,2025-11-18,kidnapping
+615,2025-10-03,identity theft
+616,2025-07-17,identity theft
+617,2025-07-24,cybercrime
+618,2025-11-19,vandalism
+619,2025-03-09,terrorism
+620,2025-02-09,arson
+621,2025-11-05,burglary
+622,2025-04-23,embezzlement
+623,2025-12-01,money laundering
+624,2025-08-01,assault
+625,2025-04-17,burglary
+626,2025-01-23,carjacking
+627,2025-01-24,vandalism
+628,2025-03-28,fraud
+629,2025-01-14,trespassing
+630,2025-04-21,cybercrime
+631,2025-07-27,assault
+632,2025-07-02,fraud
+633,2025-08-30,kidnapping
+634,2025-08-05,fraud
+635,2025-12-14,shoplifting
+636,2025-05-09,money laundering
+637,2025-07-28,carjacking
+638,2025-05-22,cybercrime
+639,2025-10-31,robbery
+640,2025-08-25,burglary
+641,2025-12-13,identity theft
+642,2025-12-05,domestic violence
+643,2025-06-16,money laundering
+644,2025-11-06,carjacking
+645,2025-10-01,identity theft
+646,2025-10-13,assault
+647,2025-05-25,burglary
+648,2025-06-07,stalking
+649,2025-04-16,homicide
+650,2025-06-05,drug possession
+651,2025-06-23,robbery
+652,2025-05-02,robbery
+653,2025-12-29,cybercrime
+654,2025-06-27,trespassing
+655,2025-07-18,terrorism
+656,2025-11-01,robbery
+657,2025-09-29,cybercrime
+658,2025-08-25,vandalism
+659,2025-11-03,arson
+660,2025-09-10,human trafficking
+661,2025-08-29,embezzlement
+662,2025-07-20,cybercrime
+663,2025-06-12,trespassing
+664,2025-11-16,stalking
+665,2025-09-21,shoplifting
+666,2025-02-13,arson
+667,2025-07-01,cybercrime
+668,2025-09-06,arson
+669,2025-01-16,domestic violence
+670,2025-12-21,kidnapping
+671,2025-11-25,identity theft
+672,2025-04-29,domestic violence
+673,2025-07-05,assault
+674,2025-02-19,cybercrime
+675,2025-05-20,kidnapping
+676,2025-11-10,cybercrime
+677,2025-06-23,homicide
+678,2025-11-05,trespassing
+679,2025-11-11,homicide
+680,2025-12-18,trespassing
+681,2025-12-29,vandalism
+682,2025-03-23,carjacking
+683,2025-11-18,domestic violence
+684,2025-07-02,arson
+685,2025-06-02,domestic violence
+686,2025-08-11,fraud
+687,2025-10-07,embezzlement
+688,2025-06-24,identity theft
+689,2025-04-15,homicide
+690,2025-05-05,terrorism
+691,2025-09-21,drug possession
+692,2025-12-09,domestic violence
+693,2025-11-19,domestic violence
+694,2025-06-14,money laundering
+695,2025-10-14,stalking
+696,2025-05-30,assault
+697,2025-08-10,domestic violence
+698,2025-05-21,money laundering
+699,2025-03-23,assault
+700,2025-05-06,shoplifting
+701,2025-11-09,carjacking
+702,2025-08-26,domestic violence
+703,2025-11-02,vandalism
+704,2025-11-28,arson
+705,2025-10-21,vandalism
+706,2025-04-30,embezzlement
+707,2025-06-15,shoplifting
+708,2025-03-04,drug possession
+709,2025-06-03,trespassing
+710,2025-01-09,homicide
+711,2025-10-01,money laundering
+712,2025-10-07,homicide
+713,2025-06-09,cybercrime
+714,2025-09-27,robbery
+715,2025-08-27,fraud
+716,2025-04-16,drug possession
+717,2025-04-20,terrorism
+718,2025-01-13,drug possession
+719,2025-02-19,shoplifting
+720,2025-08-12,arson
+721,2025-10-12,carjacking
+722,2025-12-19,homicide
+723,2025-08-10,domestic violence
+724,2025-09-02,terrorism
+725,2025-04-11,stalking
+726,2025-09-08,cybercrime
+727,2025-02-25,trespassing
+728,2025-10-24,domestic violence
+729,2025-07-23,embezzlement
+730,2025-05-16,domestic violence
+731,2025-09-02,burglary
+732,2025-05-25,identity theft
+733,2025-03-29,trespassing
+734,2025-10-29,embezzlement
+735,2025-03-11,cybercrime
+736,2025-06-26,money laundering
+737,2025-11-25,cybercrime
+738,2025-12-09,human trafficking
+739,2025-05-05,identity theft
+740,2025-06-13,homicide
+741,2025-10-06,assault
+742,2025-04-18,vandalism
+743,2025-02-22,stalking
+744,2025-08-11,drug possession
+745,2025-09-22,terrorism
+746,2025-04-23,fraud
+747,2025-12-28,embezzlement
+748,2025-08-16,cybercrime
+749,2025-09-04,money laundering
+750,2025-06-12,human trafficking
+751,2025-06-29,cybercrime
+752,2025-08-21,stalking
+753,2025-11-21,kidnapping
+754,2025-11-01,robbery
+755,2025-05-30,drug possession
+756,2025-12-08,money laundering
+757,2025-09-27,arson
+758,2025-03-07,robbery
+759,2025-06-27,cybercrime
+760,2025-11-11,trespassing
+761,2025-12-02,assault
+762,2025-08-24,domestic violence
+763,2025-04-02,drug possession
+764,2025-04-04,kidnapping
+765,2025-05-26,domestic violence
+766,2025-11-23,homicide
+767,2025-11-16,trespassing
+768,2025-08-30,drug possession
+769,2025-05-15,stalking
+770,2025-07-14,cybercrime
+771,2025-10-26,fraud
+772,2025-05-07,trespassing
+773,2025-11-11,kidnapping
+774,2025-10-03,shoplifting
+775,2025-03-19,shoplifting
+776,2025-03-13,terrorism
+777,2025-05-06,terrorism
+778,2025-08-29,drug possession
+779,2025-08-13,burglary
+780,2025-01-04,homicide
+781,2025-07-07,drug possession
+782,2025-10-30,assault
+783,2025-06-01,trespassing
+784,2025-04-23,arson
+785,2025-10-31,shoplifting
+786,2025-08-30,homicide
+787,2025-07-15,embezzlement
+788,2025-02-14,embezzlement
+789,2025-08-19,terrorism
+790,2025-01-23,homicide
+791,2025-08-30,human trafficking
+792,2025-08-24,vandalism
+793,2025-10-11,burglary
+794,2025-11-25,homicide
+795,2025-02-28,robbery
+796,2025-12-26,domestic violence
+797,2025-01-14,arson
+798,2025-05-15,stalking
+799,2025-07-28,homicide
+800,2025-03-08,kidnapping
+801,2025-11-14,human trafficking
+802,2025-04-24,stalking
+803,2025-07-06,terrorism
+804,2025-03-17,kidnapping
+805,2025-01-26,embezzlement
+806,2025-03-02,domestic violence
+807,2025-10-02,trespassing
+808,2025-06-23,trespassing
+809,2025-03-13,stalking
+810,2025-04-11,trespassing
+811,2025-06-21,shoplifting
+812,2025-04-15,domestic violence
+813,2025-12-15,homicide
+814,2025-04-22,stalking
+815,2025-08-15,shoplifting
+816,2025-02-28,cybercrime
+817,2025-12-16,fraud
+818,2025-11-08,money laundering
+819,2025-02-07,terrorism
+820,2025-10-23,vandalism
+821,2025-06-17,money laundering
+822,2025-06-15,kidnapping
+823,2025-11-26,carjacking
+824,2025-08-17,cybercrime
+825,2025-05-29,burglary
+826,2025-11-20,shoplifting
+827,2025-02-22,terrorism
+828,2025-12-03,vandalism
+829,2025-01-04,terrorism
+830,2025-12-17,stalking
+831,2025-03-23,cybercrime
+832,2025-12-08,human trafficking
+833,2025-11-28,robbery
+834,2025-02-06,identity theft
+835,2025-07-29,trespassing
+836,2025-06-17,fraud
+837,2025-07-15,drug possession
+838,2025-04-16,domestic violence
+839,2025-12-06,domestic violence
+840,2025-09-25,money laundering
+841,2025-11-12,carjacking
+842,2025-04-05,homicide
+843,2025-12-22,cybercrime
+844,2025-01-22,robbery
+845,2025-01-31,shoplifting
+846,2025-05-01,robbery
+847,2025-11-21,embezzlement
+848,2025-04-24,homicide
+849,2025-10-03,burglary
+850,2025-11-24,robbery
+851,2025-08-04,money laundering
+852,2025-08-25,cybercrime
+853,2025-06-18,cybercrime
+854,2025-02-09,arson
+855,2025-10-24,homicide
+856,2025-04-09,human trafficking
+857,2025-02-04,fraud
+858,2025-12-13,stalking
+859,2025-02-19,shoplifting
+860,2025-05-31,fraud
+861,2025-10-03,terrorism
+862,2025-09-13,drug possession
+863,2025-10-18,homicide
+864,2025-03-30,shoplifting
+865,2025-01-24,kidnapping
+866,2025-03-10,shoplifting
+867,2025-07-04,domestic violence
+868,2025-09-08,cybercrime
+869,2025-01-29,money laundering
+870,2025-03-28,burglary
+871,2025-10-25,trespassing
+872,2025-12-19,identity theft
+873,2025-08-09,robbery
+874,2025-07-16,kidnapping
+875,2025-10-24,homicide
+876,2025-10-23,money laundering
+877,2025-06-03,assault
+878,2025-01-03,cybercrime
+879,2025-12-30,assault
+880,2025-11-26,terrorism
+881,2025-04-28,carjacking
+882,2025-02-18,assault
+883,2025-01-12,robbery
+884,2025-03-29,kidnapping
+885,2025-05-04,money laundering
+886,2025-11-30,burglary
+887,2025-03-14,money laundering
+888,2025-06-12,vandalism
+889,2025-11-11,trespassing
+890,2025-01-23,kidnapping
+891,2025-07-19,domestic violence
+892,2025-07-15,carjacking
+893,2025-03-15,cybercrime
+894,2025-02-17,terrorism
+895,2025-11-17,burglary
+896,2025-07-01,assault
+897,2025-08-22,money laundering
+898,2025-04-18,burglary
+899,2025-07-23,fraud
+900,2025-02-26,homicide
+901,2025-01-26,assault
+902,2025-03-11,domestic violence
+903,2025-09-28,burglary
+904,2025-05-08,stalking
+905,2025-01-29,kidnapping
+906,2025-03-11,human trafficking
+907,2025-12-08,assault
+908,2025-01-24,money laundering
+909,2025-08-03,carjacking
+910,2025-04-03,money laundering
+911,2025-01-01,kidnapping
+912,2025-10-21,cybercrime
+913,2025-01-14,robbery
+914,2025-12-18,vandalism
+915,2025-04-27,carjacking
+916,2025-10-08,kidnapping
+917,2025-03-24,robbery
+918,2025-05-17,carjacking
+919,2025-12-12,shoplifting
+920,2025-12-08,robbery
+921,2025-08-23,cybercrime
+922,2025-04-05,assault
+923,2025-09-08,drug possession
+924,2025-05-23,shoplifting
+925,2025-06-08,kidnapping
+926,2025-01-30,domestic violence
+927,2025-06-13,homicide
+928,2025-07-25,stalking
+929,2025-07-22,drug possession
+930,2025-06-28,kidnapping
+931,2025-11-17,money laundering
+932,2025-11-04,domestic violence
+933,2025-04-30,robbery
+934,2025-05-25,terrorism
+935,2025-07-19,trespassing
+936,2025-12-06,shoplifting
+937,2025-08-01,embezzlement
+938,2025-02-13,arson
+939,2025-09-01,money laundering
+940,2025-11-25,embezzlement
+941,2025-03-24,embezzlement
+942,2025-08-16,terrorism
+943,2025-10-11,drug possession
+944,2025-07-30,burglary
+945,2025-07-03,stalking
+946,2025-04-21,shoplifting
+947,2025-12-08,shoplifting
+948,2025-07-19,trespassing
+949,2025-08-17,identity theft
+950,2025-11-09,identity theft
+951,2025-05-08,trespassing
+952,2025-07-29,money laundering
+953,2025-09-20,fraud
+954,2025-06-11,robbery
+955,2025-06-14,human trafficking
+956,2025-12-19,human trafficking
+957,2025-03-15,shoplifting
+958,2025-11-30,kidnapping
+959,2025-05-28,terrorism
+960,2025-12-16,kidnapping
+961,2025-07-18,shoplifting
+962,2025-10-13,shoplifting
+963,2025-12-28,kidnapping
+964,2025-12-15,embezzlement
+965,2025-03-12,identity theft
+966,2025-08-21,domestic violence
+967,2025-01-09,carjacking
+968,2025-09-28,fraud
+969,2025-06-20,assault
+970,2025-06-16,trespassing
+971,2025-03-21,burglary
+972,2025-05-30,trespassing
+973,2025-07-06,carjacking
+974,2025-08-12,domestic violence
+975,2025-10-06,terrorism
+976,2025-09-22,kidnapping
+977,2025-05-10,terrorism
+978,2025-01-08,burglary
+979,2025-02-16,carjacking
+980,2025-06-13,stalking
+981,2025-05-21,cybercrime
+982,2025-01-17,trespassing
+983,2025-03-19,robbery
+984,2025-04-30,carjacking
+985,2025-03-23,robbery
+986,2025-08-08,arson
+987,2025-09-13,embezzlement
+988,2025-07-25,kidnapping
+989,2025-12-05,homicide
+990,2025-01-15,money laundering
+991,2025-03-22,terrorism
+992,2025-06-20,carjacking
+993,2025-06-05,assault
+994,2025-05-16,shoplifting
+995,2025-05-08,drug possession
+996,2025-07-24,shoplifting
+997,2025-04-12,arson
+998,2025-01-01,identity theft
+999,2025-07-13,fraud
+1000,2025-12-23,burglary
